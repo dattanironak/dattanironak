@@ -1,14 +1,14 @@
 <!-- <div align="center"><a href="#"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobile.twitter.com%2Fstartup_ent&psig=AOvVaw3x8U-HSRjm5J5y_ABlUu46&ust=1646342125680000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCXotesqPYCFQAAAAAdAAAAABAD" height="275px"/></a></div>
  -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ronak.</h1>
-<h3 align="center">Got startup Idea ? Let's Discuss. Working for better of myself, society and nature..</h3>
+<h3 align="center">Working for better of myself, society and nature..</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 🚀 Possibly I'm thinking about new **Startup Idea** 
+- 🚀 Possibly I'm thinking about new problem solving **Startup Idea** 
 
 - 📫 How to reach me: **radattani0608@gmaill.com**
 
